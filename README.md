@@ -11,7 +11,6 @@ Frontend: The frontend is developed with React Native and is stored in the front
 ## Features
 
 ### Frontend
-Frontend is in
 - User registration and login
 - Truck request form
 - User dashboard
@@ -40,8 +39,8 @@ Frontend is in
 1. Clone the repository:
 
    ```bash
-   git clone <repository-url>
-   cd <repository-folder>
+   git clone https://github.com/nasimarain/rodud-assignment.git
+   cd backend
    ```
 
 2. Install dependencies:
